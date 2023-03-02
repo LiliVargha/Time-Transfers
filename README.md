@@ -10,3 +10,16 @@ Time transfers are transfers of services that are produced through unpaid care w
 
 The first figure is ordered according to the age of men age groups becoming net givers of time, the second Figure is oredered according to clustering the gender specific results. For more details on this see Vargha and Istenic 2023.
 
+## Data source
+1. [Counting Women's Work](https://www.countingwomenswork.org/data) (Counting Women's Work 2022)
+2. [European AGENTA Project](http://dataexplorer.wittgensteincentre.org/nta/) (Istenič et al. 2019)
+3. Hammer 2014
+4. Gal, Szabo and Vargha 2017
+
+## Replication files
+The files for replication is [NTTAVIZ_Socius.R](https://github.com/LiliVargha/Time-Transfers/blob/main/NTTAVIZ_Socius.R) The file contains explanations and different visualizations.
+
+## References
+Lili Vargha, Bernhard Binder-Hammer, Gretchen Donehower: [Time transfers by gender and age in 28 countries](LINK) Socius 2023.
+
+Lili Vargha, Tanja Istenič: Towards a Typology of Economic Lifecycle Patterns. [Presentation at NTA14 Paris](https://ntaccounts.org/web/nta/show/Documents/Meetings/NTA14%20Abstracts), 15 February 2023
