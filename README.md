@@ -12,7 +12,7 @@ The first figure is ordered according to the age of men age groups becoming net 
 
 See the contrast between time transfers and market transfers:
 
-### FIGURE 1&2: Time transfers in 28 countries and market transfers in 39 countries
+### FIGURE 3&4: Time transfers in 28 countries and market transfers in 39 countries
 ![Image](https://user-images.githubusercontent.com/68189671/222546491-07476447-0e52-48f6-af03-f60921eec670.jpg)
 ![Image](https://user-images.githubusercontent.com/68189671/218336215-a4aaf882-9e26-412e-b849-ff477f3f9505.jpg)
 
