@@ -26,6 +26,6 @@ See the contrast between time transfers and market transfers:
 The files for replication is [NTTAVIZ_Socius.R](https://github.com/LiliVargha/Time-Transfers/blob/main/NTTAVIZ_Socius.R) The file contains explanations and different visualizations.
 
 ## References
-Lili Vargha, Bernhard Binder-Hammer, Gretchen Donehower: [Time transfers by gender and age in 28 countries](LINK) Socius 2023.
+Lili Vargha, Bernhard Binder-Hammer, Gretchen Donehower: [Time transfers by gender and age in 28 countries](https://journals.sagepub.com/doi/full/10.1177/23780231231153615) Socius 2023. https://doi.org/10.1177/23780231231153615
 
 Lili Vargha, Tanja Istenič: Towards a Typology of Economic Lifecycle Patterns. [Presentation at NTA14 Paris](https://ntaccounts.org/web/nta/show/Documents/Meetings/NTA14%20Abstracts), 15 February 2023
